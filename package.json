@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "backend for e-com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhuw/ecommerce-backend.git"
+  },
+  "author": "dhuw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhuw/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/dhuw/ecommerce-backend#readme"
+}
