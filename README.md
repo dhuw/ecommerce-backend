@@ -13,9 +13,14 @@
   ## Installation
   - npm init
   - npm install
+  - mysql -u root -p
+  - SOURCE db/schema.js
+  - node seed
+  - node server.js
   
   ## Links
- *link*
+  *link*
+  ## Images
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br />
